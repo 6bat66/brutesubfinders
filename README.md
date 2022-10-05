@@ -13,7 +13,7 @@ https://github.com/projectdiscovery/subfinder
 https://github.com/tomnomnom/hacks/tree/master/filter-resolved
 
 
-- cmd -
+- CMD -
   apt install golang
   apt install amass
   go install -v https://github.com/tomnomnom/assetfinder@latest
